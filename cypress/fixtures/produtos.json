@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "M",
+        "cor": "Green",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Grayson Crewneck Sweatshirt",
+        "tamanho": "XS",
+        "cor": "Orange",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "36",
+        "cor": "Brown",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "XL",
+        "cor": "Orange",
+        "quantidade": 2
+    }
+]
